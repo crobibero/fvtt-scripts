@@ -57,12 +57,12 @@ new Dialog({
             brightSight = 0;
             break;
           case "dim60":
-            dimSight = 60;
-            brightSight = 0;
+            dimSight = 0;
+            brightSight = 60;
             break;
           case "dim120":
-            dimSight = 120;
-            brightSight = 0;
+            dimSight = 0;
+            brightSight = 120;
             break;
           case "nochange":
           default:
